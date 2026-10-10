@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe2md/commit/dfb50a4e3e43fe9ff36edb4fe14dbad48f7d8dfe",
       "git:hexsha": "dfb50a4e3e43fe9ff36edb4fe14dbad48f7d8dfe",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.5.1"
     },
     {
