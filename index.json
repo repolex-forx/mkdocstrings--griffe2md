@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "griffe2md",
+  "versions": [
+    {
+      "commit": "dfb50a4e3e43fe9ff36edb4fe14dbad48f7d8dfe",
+      "tag": "1.5.1",
+      "parsed_at": "2026-10-10T22:33:30.457661+00:00"
+    }
+  ]
+}
