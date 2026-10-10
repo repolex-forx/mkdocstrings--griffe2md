@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe2md/commit/dfb50a4e3e43fe9ff36edb4fe14dbad48f7d8dfe",
       "git:hexsha": "dfb50a4e3e43fe9ff36edb4fe14dbad48f7d8dfe",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.5.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.5.1",
+      "repolex:parsedAt": "2026-10-10T22:33:30.457131+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/griffe2md/commit/1eea73b037e9501f2f23cda32bcafd3d0d6209a3",
